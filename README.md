@@ -1,3 +1,5 @@
+
+
 # AI Hiring Platform
 
 An AI-powered recruitment platform built with the **TANStack** that helps recruiters source candidates, evaluate resumes using semantic AI matching, conduct asynchronous video interviews, and compare candidates through AI-generated scorecards.
